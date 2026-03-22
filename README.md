@@ -35,12 +35,26 @@ I enjoy turning UI designs into clean, scalable, and maintainable code.
 ## 🚀 Featured Projects
 
 ### ✨ muhammed-soliman-portfolio
+#### Overview
+A modern, responsive React + Next.js Portfolio showcasing advanced frontend engineering. Built with cutting-edge technologies including TypeScript, Tailwind CSS, modern React Patterns and Next.js App Router. Focused on server-side-rendering (SSR), optimized performance, clean code, and deliver a seamless user experience.
+
+**Live Deployment:** muhammed-soliman-portfolio.vercel.app
+
+**Project Highlight**
+- Server-Side-Rendering (SSR) with Next.js for optimal SEO.
+- Modern UI/UX with Tailwind CSS and responsive design.
+- Performance-Optimized with image, link, form optimization and code splitting.
+- Fully Responsive - mobile-first approach.
+- Professional Design - Focused on simplicity and seamless design.
+- Fast Load Times - optimized assets and caching.
+
+#### Quick Links
 | Link     | Description |
 |----------|-------------|
-| [Live Demo](https://muhammed-soliman-portfolio.vercel.app) | Live Demo Project |
+| [Live Demo](https://muhammed-soliman-portfolio.vercel.app) | Live Deployment |
 | [GitHub Repo](https://github.com/Mohammed-Soliman144/muhammed-soliman-portfolio/) | GitHub Repository |
-| [README](https://github.com/Mohammed-Soliman144/muhammed-soliman-portfolio/blob/main/README.md) | For More Details|
-
+| [README](https://github.com/Mohammed-Soliman144/muhammed-soliman-portfolio/blob/main/README.md) | For More Details |
+---
 
 ### 🛒 Grocery React App
 A small e-commerce front-end application built with React.
