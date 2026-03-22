@@ -34,6 +34,20 @@ I enjoy turning UI designs into clean, scalable, and maintainable code.
 
 ## 🚀 Featured Projects
 
+### muhammed-soliman-portfolio
+| Link     | Description |
+|----------|-------------|
+| [Live Demo](https://muhammed-soliman-portfolio.vercel.app) | Live Demo Project |
+| [GitHub Repo](https://github.com/Mohammed-Soliman144/muhammed-soliman-portfolio.vercel/) | GitHub Repository |
+| [README]([ht](https://github.com/Mohammed-Soliman144/muhammed-soliman-portfolio.vercel/README.md) | For More Details|
+
+
+- My portfolio showcasing skills, learning journey and experience phases.
+- Technologies used **Next.js**, **modern React Patterns**, **TypeScript** and **TailwindCSS**.
+- Grid and Flex architecture responsive layout.
+- SEO Optimization, Code Splitting and Optimization Performances.
+- **[R]
+
 ### 🛒 Grocery React App
 A small e-commerce front-end application built with React.
 - Product listing with add-to-cart functionality
