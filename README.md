@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohammed Soliman
+# Hi there 👋, I'm Muhammad Soliman
 
 ### Junior Front-End Developer (React / Next.js)
 
